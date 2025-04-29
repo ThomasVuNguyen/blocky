@@ -1,3 +1,17 @@
+:root {
+  --arcade-orange: #f36c21;
+  --arcade-white: #ffffff;
+  --arcade-light-gray: #f9f9f9;
+  --arcade-dark-gray: #333333;
+  --arcade-sidebar-gray: #444444;
+  --arcade-blue: #4a90e2;
+  --arcade-red: #d9534f;
+  --arcade-purple: #bb33ff;
+  --arcade-green: #4caf50;
+  --arcade-yellow: #ffd600;
+  --arcade-black: #000000;
+}
+
 body {
   margin: 0;
   max-width: 100vw;
